@@ -1,0 +1,99 @@
+﻿{
+	"info": {
+		"qr": "",
+		"cancelid": "6wJByeEC4ZI",
+		"printinfo": {
+			"name": "ЧП Предпринимательское предприятие",
+			"shopname": "глав.офис",
+			"vat_code": "",
+			"fis_code": "24457324230852",
+			"goods": [
+				{
+					"name": "Копыто конское в шоколде",
+					"code": "c0go1",
+					"code1": "",
+					"code2": "",
+					"code_a": "",
+					"code_b": [],
+					"cnt": 1,
+					"price": 250,
+					"cost": 250,
+					"disc": 0,
+					"taxgrp": 2,
+					"taxlit": "Б",
+					"comment": ""
+				},
+				{
+					"name": "Трактор на палочке",
+					"code": "c0h012",
+					"code1": "",
+					"code2": "",
+					"code_a": "",
+					"code_b": [],
+					"cnt": 1,
+					"price": 650,
+					"cost": 650,
+					"disc": 0,
+					"taxgrp": 2,
+					"taxlit": "Б",
+					"comment": ""
+				}
+			],
+			"sum": 900,
+			"sum_receipt": 900,
+			"sum_disc": 0,
+			"sum_topay": 900,
+			"round": 0,
+			"pays": [
+				{
+					"type": 0,
+					"typen": "Нал",
+					"sum": 900,
+					"info": "Получено 900.00 здача 0.00",
+					"comment": "",
+					"comment_up": "",
+					"comment_down": "",
+					"change": 0
+				}
+			],
+			"taxes": [
+				{
+					"gr_code": 2,
+					"base_sum": 900,
+					"tax_name": "",
+					"tax_fname": "Без ПДН",
+					"tax_lit": "Б",
+					"tax_percent": 0,
+					"tax_sum": 0,
+					"ex_name": "",
+					"ex_percent": 0,
+					"ex_sum": 0
+				}
+			],
+			"fisn": "6wJ12ByeEC4Z_I",
+			"dt": "02-12-2022 12:12:29",
+			"qr": "b8a7-4cec-93f2-0ae33673b646",
+			"isOffline": false,
+			"mac": "89058222f8a3d7bd3e"
+		},
+		"docno": "60",
+		"doccode": "6wJByeEC4ZI",
+		"isprint": 0,
+		"ispay": 0,
+		"vacant_off_nums": -1,
+		"dataid": 160347,
+		"devinfo": "",
+		"printheader": null
+	},
+	"ver": 16,
+	"device": "Касса главная",
+	"tag": "b6c12b7e-b8a7-4cec-93f2-0ae33673b646",
+	"type": 1,
+	"task": 100,
+	"dt": "20221202121229",
+	"res": 0,
+	"res_action": 0,
+	"errortxt": "",
+	"aq_errortxt": "",
+	"warnings": []
+}
